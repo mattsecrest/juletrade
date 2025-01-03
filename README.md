@@ -1,5 +1,7 @@
 # juletrade (Julia E-Trade API Wrapper)
 
+**⚠️ In Development: juletrade is still a work in progress.**  
+
 **juletrade** is a Julia package that connects to the E-Trade API. It is designed to be fast and simple.
 
 ## What It Does
